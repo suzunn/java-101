@@ -1,4 +1,4 @@
-package Programlar;
+package Odevler;
 
 import java.util.Scanner;
 
